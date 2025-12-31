@@ -1,16 +1,28 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 36329434,
+    "name": "ZAPHKIEL",
+    "author": "Darwin",
+    "creators": ["Noctafly","Darwin"],
+    "verifier": "DiamondSplash",
+    "verification": "https://youtu.be/-w8Pi_hg7fc",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/gn_WQarsHk0?si=7p0yYXVI4zhHDC7_",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/FrztDTGxgHE?si=f1G3-EsaNAQG5KYg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/y2On4yTReOM?si=SoV5iswHNZuzlJLP",
             "percent": 100,
             "hz": 240
         }
