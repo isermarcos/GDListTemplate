@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 59209010,
+    "name": "Spectrum Cyclone",
+    "author": "Temp",
+    "creators": ["Temp"],
+    "verifier": "Temp",
+    "verification": "https://youtu.be/IN0XeMo2SmM",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/mZo2kV59eog?si=LvzxZwMUiXp78On-",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/F4TuGyS0i28?si=hMyy3QRjDfCN_gSH",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
