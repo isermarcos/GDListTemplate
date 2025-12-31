@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 57433866,
+    "name": "BuTiTi III",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "PancakeKnight",
+    "verification": "https://youtu.be/abei8PCdi5A",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
