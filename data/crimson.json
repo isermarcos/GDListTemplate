@@ -1,0 +1,24 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["Metalface221","Trusta","Terron","Dz3ser","YakobNugget","MrPPs","AimTheSame","nikroplays","Endlevel","Zimnior12","surreki","TrueOmega"],
+    "verifier": "Wooshi",
+    "verification": "https://www.youtube.com/watch?v=euMInLjyG6k",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax724",
+            "link": "https://www.youtube.com/watch?v=Snc1oUdl4GE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://www.youtube.com/watch?v=FQXeJN22AIs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

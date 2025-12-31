@@ -1,0 +1,18 @@
+{
+    "id": 93247638,
+    "name": "Exosphere",
+    "author": "Doggie",
+    "creators": ["Doggie","crumche","Astrofox","Ka1ns","Avenaa","Viper Arcturus","Yendis","GrenadeofTacos","creoa","NineDice","Shy","CairoX","Levin","lolwut","REDACTED","TriplasH","UltraCharge","Croanix","Realvet","GhostVandalf","nemo","Mzero","Underings","DTDom","Deltex","Rynoxious","Genoxide"],
+    "verifier": "DijonGD",
+    "verification": "https://www.youtube.com/watch?v=HRbBub341W4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "NicoGG",
+            "link": "www.youtube.com/watch?v=qTpCBcJ-ngA&t",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

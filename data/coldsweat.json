@@ -1,0 +1,24 @@
+{
+    "id": 63996127,
+    "name": "Cold Sweat",
+    "author": "para",
+    "creators": ["para","Sminx","Wulzy"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "lukz715",
+            "link": "https://www.youtube.com/watch?v=jqQwzl0gU0c",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/HMaK7vGfxTw?si=1IRPNGSgF5yhGeWo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

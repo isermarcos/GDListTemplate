@@ -1,0 +1,30 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": ["Endlevel","iliViRuZili"],
+    "verifier": "Metalface221",
+    "verification": "www.youtube.com/watch?v=yd5cH9nvDvg&embeds_referring_euri=https%3A%2F%2Faredl.net%2F",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=yA7GI01Au4o",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "NicoGG",
+            "link": "https://www.youtube.com/watch?v=o-4EnzzPhnY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "www.youtube.com/watch?v=am4WkCpUOvg&t=",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
