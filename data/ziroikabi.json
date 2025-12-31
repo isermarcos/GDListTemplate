@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 44773500,
+    "name": "Ziroikabi",
+    "author": "MikeWheelerFan",
+    "creators": ["MikeWheelerFan"],
+    "verifier": "Waivve",
+    "verification": "https://youtu.be/wmJd6YQQX48",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/v8zsuoKcZnk?si=NI2Jidzvi4Edmd0J",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/ry8bX7qmpMY?si=wpw6c4fJi9HIbum4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
