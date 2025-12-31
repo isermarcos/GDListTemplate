@@ -1,18 +1,30 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 16023141,
+    "name": "A Bizarre Phantasm",
+    "author": "TeamN2",
+    "creators": ["ZenthicAlpha", "Minus", "Zelda", "Koreaqwer", "Ryan LC", "Reple", "Aeidux", "Hermes", "Luneth", "Miner", "WOOGI1411", "Motu", "RedDragon"],
+    "verifier": "GoodSmile",
+    "verification": "https://youtu.be/ivC0NJVPAwo",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://youtu.be/t8PE96m9CgA?si=s0CPILRAxY9d-i7p",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/SG7mqlaPMwU?si=Y-kKrHcrd3df0sXL",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://medal.tv/games/geometry-dash/clips/lvd0KC5OmPO840fUh?invite=cr-MSxoNjgsMjA3NTM0Njkw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
