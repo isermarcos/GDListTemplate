@@ -1,16 +1,22 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 55385816,
+    "name": "Balengu Vortex",
+    "author": "Temp",
+    "creators": ["Temp","ItsHybrid","HJfod"],
+    "verifier": "Temp",
+    "verification": "https://youtu.be/2BwK_ngpdPA",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/RICzNszPfZM?si=x00l93ZExFoEWuFT",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/4n3qj1oxyY8?si=RU5wF6gO4l6uMLUH",
             "percent": 100,
             "hz": 240
         }
