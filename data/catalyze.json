@@ -1,16 +1,28 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 50333567,
+    "name": "Catalyze",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/hF-TVX8wakc",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/EfFB3Xmss6w?si=fEamGd8O3wwzOwvd",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/FAb-9xe6AZk?si=edt9Df7NtdyVLIlT",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/zrsSTAfnrVY?si=MJtnqI8vq3NNOMTl",
             "percent": 100,
             "hz": 240
         }
