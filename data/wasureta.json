@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": ["XLSpiral", "Helpegasus", "Deadlox", "augi", "Isane", "BelonziK", "El3ctr0", "LimeTime313", "REDACTED", "Splash"],
+    "verifier": "VaporWubz",
+    "verification": "https://youtu.be/9jkCtNDbDt0",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/PTMQkN_DakU?si=Lm2kjGDNub4SXVfv",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/J9ja_sExzsE?si=Y2TNFvecVuPVd5rw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
