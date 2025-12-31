@@ -1,16 +1,28 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 22183448,
+    "name": "WcropoliX",
+    "author": "BlassCFB",
+    "creators": ["BlassCFB"],
+    "verifier": "BlassCFB",
+    "verification": "https://youtu.be/pQ2PsY1BymE",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
+            "user": "Nico GG",
+            "link": "https://youtu.be/N9DeoNtEcwI?si=i919VG7Q-eT1UqPM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://youtu.be/a5PcWyAD9ZY?si=TGY47FxtF0ldBwGN",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://medal.tv/games/geometry-dash/clips/kz6s3wgKjhe7i5BsB?invite=cr-MSx1c1YsMjA3NTM0Njkw&v=95",
             "percent": 100,
             "hz": 240
         }
