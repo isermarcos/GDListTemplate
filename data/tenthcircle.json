@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 62592746,
+    "name": "Tenth Circle",
+    "author": "DeniPol",
+    "creators": ["NormDanchik","DeniPol"],
+    "verifier": "Blitzer",
+    "verification": "https://youtu.be/d3IYDgX_Vtk",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=CRJNf2MaMSE",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
