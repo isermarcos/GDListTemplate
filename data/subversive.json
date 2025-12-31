@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
+    "id": 20937583,
+    "name": "SUBVERSIVE",
+    "author": "Snowr33de",
+    "creators": ["UltimateGuy","Sightorld","Snowr33de","ChaSe","Sl@v.ik","MUFF1N","Namtar","Vird","Disp","Disappear","XCore","RespectVG"],
+    "verifier": "Snowr33de",
     "verification": "",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
