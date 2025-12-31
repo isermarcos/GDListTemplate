@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 27580467,
+    "name": "Hatred",
+    "author": "AZuLer4",
+    "creators": ["guillester", "AZuLer4"],
+    "verifier": "guillester",
+    "verification": "https://youtu.be/mq5-I5UXZrQ",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/a3GwRyNQIjo?si=JHi7FlbNHTOMfn_K",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/DDmQXsM5y4Q?si=_NrGr8EJR59bd1u6",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
