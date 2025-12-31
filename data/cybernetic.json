@@ -1,16 +1,16 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "ViPriN",
+    "creators": ["FirsGD", "Vlacc", "Serponge", "nasgubb", "ViPriN", "Rustam", "zalspr", "Terron", "Shocksidian", "Codex", "REDACTED", "TheDevon", "FerdeFunky", "Enzore", "G4lvatron", "Samifying", "Floppy"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/0yKtq1PJeDQ",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "lukz715",
+            "link": "https://medal.tv/games/geometry-dash/clips/j9VixoZMjCLYWpj8r?invite=cr-MSxpSTIsMjA3NTM0Njkw&v=123",
             "percent": 100,
             "hz": 240
         }
