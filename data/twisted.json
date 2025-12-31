@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 32920197,
+    "name": "Twisted Tranquility",
+    "author": "Flukester",
+    "creators": ["ZinkZeta", "Kenny", "CreatorDino", "Jude", "Venom", "Jghost", "Killua", "Flukester", "Gach"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/TiaOm9j36Pg",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/ODbHM1MGaVs?si=RMc4EZIJaMfa9mkB",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
