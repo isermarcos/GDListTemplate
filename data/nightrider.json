@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 78051190,
+    "name": "Night Rider",
+    "author": "lmAnubis",
+    "creators": ["TrusTa", "Osiris GD", "FirsGD", "guillester", "lmAnubis", "Ale", "Juhou", "DesTicY", "TamaN", "voltex", "Riot", "Michigun", "Mumalaengi", "Onnikonna", "Zobros", "Tongii", "Doominator222", "Zhander", "Cynvic", "Xaro", "Expy", "JoshenJol", "KWMS", "Koolboom", "Arctica", "GaidenHerturny", "Surv", "MzeroGD", "matty2003", "knobbelboy", "Goose", "CuLuC", "Enely", "Mactanow", "ILRELL", "FerdeFunky", "Sunix", "KrmaL", "NyamLock", "Samifying"],
+    "verifier": "REDACTED",
+    "verification": "https://youtu.be/u_hvXLg3mfQ",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
