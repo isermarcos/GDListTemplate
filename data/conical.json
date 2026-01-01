@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 17711004,
+    "name": "Conical Depression",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/wdEuFpV9CXw",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/XluHWGTKlAI?si=eMA3cNafadtlQdL2",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
