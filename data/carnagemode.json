@@ -1,16 +1,16 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 36107975,
+    "name": "Carnage Mode",
+    "author": "Findexi",
+    "creators": ["LassiBoy","nasgubb","Kips","Juhou","GDSpeed","Findexi","Dudex","Lemons"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/GuJkgwNJ0UU",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
             "hz": 240
         }
