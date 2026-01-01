@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 69108628,
+    "name": "Broken Signal",
+    "author": "Grax",
+    "creators": ["Grax"],
+    "verifier": "Grax",
+    "verification": "https://youtu.be/3xo1b5kMTbE",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "reizor",
+            "link": "https://youtu.be/VhbhV5IAehY?si=_51uiWl1OYk93coa",
             "percent": 100,
-            "hz": 240
+            "hz": 144
         }
     ]
 }
