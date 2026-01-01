@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 39458641,
+    "name": "Awakening Horus",
+    "author": "Juhou",
+    "creators": ["Juhou","Xingtik"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/YZYq1dQrQjY",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=YeHhsU-fH0g",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/XgXQYdMwgiY?si=S-SfbiXhlrjguPMV",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
