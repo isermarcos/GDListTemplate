@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 27908448,
+    "name": "Artificial Ideology",
+    "author": "TeamN2",
+    "creators": ["ThorMode", "dhk2725", "Minus", "Zelda", "Koreaqwer", "Cyclic", "Miner", "KSWgeo", "SatuM", "Rabb2t", "Motu", "RedDragon"],
+    "verifier": "knobbelboy",
+    "verification": "https://youtu.be/WRfaroi9PpA",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://youtu.be/6tVOPCOWq7w?si=apNRZovxsgl1yoPV",
             "percent": 100,
-            "hz": 240
+            "hz": 75
         }
     ]
 }
