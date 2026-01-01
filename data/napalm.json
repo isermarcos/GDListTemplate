@@ -1,16 +1,22 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["victorinoxX", "zalspr", "Vapen", "OpteX", "Dominus", "REDACTED", "Marwec", "Buragoz", "FerdeFunky", "Eggnog", "Subwoofer"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/ND--Ai4XVfM",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://medal.tv/es/games/geometry-dash/clips/1IAkEWdRutBtJS?invite=cr-MSxzNXksMjA3Mzk1MzQ4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "",
             "percent": 100,
             "hz": 240
         }
