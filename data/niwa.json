@@ -1,16 +1,16 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["KrazyGFX", "Mrgm", "peng", "Blaze", "Teno", "Pedro", "Aranda", "BeClan", "Titoalper", "Asuith", "Genoxide"],
+    "verifier": "nicor77",
+    "verification": "https://youtu.be/vegDZr7jh-M",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
             "hz": 240
         }
