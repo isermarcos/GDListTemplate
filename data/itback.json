@@ -1,16 +1,16 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 81744548,
+    "name": "It back",
+    "author": "HangyKing",
+    "creators": ["HangyKing"],
+    "verifier": "HangyKing",
+    "verification": "https://youtu.be/I9Vmi2ZWIe4",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Lukz715",
+            "link": "a",
             "percent": 100,
             "hz": 240
         }
