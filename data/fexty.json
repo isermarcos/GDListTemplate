@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 25449475,
+    "name": "Fexty",
+    "author": "SkyJax",
+    "creators": ["Ozpectro"],
+    "verifier": "SkyJax",
+    "verification": "https://youtu.be/xwe1MbOjdpU",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
+            "user": "Harpax",
             "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
             "percent": 100,
-            "hz": 240
+            "hz": 144
+        },
+                {
+            "user": "Nico GG",
+            "link": "a",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
