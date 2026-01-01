@@ -1,18 +1,66 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Asonicmen","Evasium","Crack","Riot","GgB0y","Michigun","Etzer","Giron","Havok","weoweoteo","Vermillion"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/twTw4fjT0ik",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://youtu.be/Hidl-8fyGDM?si=nFfz05dOQG_wYCNv",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=lMOTAidKk9c",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=_C4DIXEZRcE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "isemarcos",
+            "link": "www.youtube.com/watch?v=T0ffjYMqXO8&t=",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://www.youtube.com/watch?v=2I4sDGmSyN0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "bauti",
+            "link": "https://www.youtube.com/watch?v=AAzHCaczkKk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "GhostXan",
+            "link": "www.youtube.com/watch?v=56ZSjAjtRiE&t",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "reizor",
+            "link": "https://www.youtube.com/watch?v=TiPGPvnI-oY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Mistik",
+            "link": "https://youtu.be/TKTspOxVX2I?si=rhENPjdMDh3vx8cd",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
