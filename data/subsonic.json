@@ -1,18 +1,30 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 33387622,
+    "name": "SubSonic",
+    "author": "ViPriN",
+    "creators": ["Evasium","Sumsar","ViPriN","Rustam","GgB0y","Terron","Jeyzor","Panman","Dudex","TheDevon","xcy7"],
+    "verifier": "combi",
+    "verification": "https://youtu.be/F-AfSPnjIcM",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=TlaA832WlSo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Agguss",
+            "link": "https://www.youtube.com/watch?v=PShDlkpKgIk",
             "percent": 100,
             "hz": 240
+        },        
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=4n14M5Vz5Zk",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
