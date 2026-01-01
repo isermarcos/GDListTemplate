@@ -1,16 +1,58 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "https://www.youtube.com/watch?v=qhAxKjMUyXc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=AhLLYo620Oc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=ybh14YW32-c",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "isemarcos",
+            "link": "https://www.youtube.com/watch?v=skKfY5eQauU",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "AggusS",
+            "link": "https://www.youtube.com/watch?v=HHEL1z72I1g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Mistik",
+            "link": "https://www.youtube.com/watch?v=G5Oheblb3A4",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "reizor",
+            "link": "https://youtu.be/GPhTwHn6-QA?si=TLzBq7002q30iBQe",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "GhostXan",
+            "link": "https://www.youtube.com/watch?v=ExA1dQ_XyDI",
             "percent": 100,
             "hz": 240
         }
