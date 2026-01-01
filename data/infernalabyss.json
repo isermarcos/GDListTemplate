@@ -1,18 +1,18 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 27379546,
+    "name": "Infernal Abyss",
+    "author": "GgB0y",
+    "creators": ["GgB0y","BIANOX","Manix648",],
+    "verifier": "BlassCFB",
+    "verification": "https://youtu.be/PphhxYmYYZU",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=boqULM2SJuA",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
