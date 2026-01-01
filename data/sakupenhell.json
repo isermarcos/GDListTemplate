@@ -1,18 +1,30 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "TrusTa",
+    "verification": "https://youtu.be/svyOjwLCErg",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Harpax",
+            "link": "https://www.youtube.com/watch?v=kZY-6kOUzYM",
             "percent": 100,
-            "hz": 240
+            "hz": 75
+        },
+                {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=bwURkTsEB9I",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Agguss",
+            "link": "https://www.youtube.com/watch?v=fo3L0oJD0Zs",
+            "percent": 100,
+            "hz": 200
         }
     ]
 }
