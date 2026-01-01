@@ -1,16 +1,16 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 100485888,
+    "name": "STRATUS",
+    "author": "Woom",
+    "creators": ["victorinoxX", "LazerBlitz", "Orte", "Deadlox", "Mangosteen", "ZeroSR", "Ryzlesalt", "Cynvic", "ivyteal", "Lagnugg", "Hantein", "hyp3rlink", "Loltad", "NASHII", "Metalface221", "ibrah", "Bli", "Thomartin"],
+    "verifier": "YakobNugget",
+    "verification": "https://youtu.be/3VQww22jJG0",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "bauti",
+            "link": "https://youtu.be/ZVW20e010Zc?si=om9-AoFu1H1_PNEH",
             "percent": 100,
             "hz": 240
         }
