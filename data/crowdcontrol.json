@@ -1,16 +1,22 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "Deadlox",
+    "creators": ["Ka1ns","Endlevel","Deadlox","ewop","silver"],
+    "verifier": "xander",
+    "verification": "https://youtu.be/-q0iBUZti9s",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "user": "Nico GG",
+            "link": "https://youtu.be/CHYZ2ECvFJ8?si=EBQwRqww1RXnu0rv",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AggusS",
+            "link": "https://youtu.be/3_NU02M2HXA?si=3IdWOqzYSmy4VC76",
             "percent": 100,
             "hz": 240
         }
