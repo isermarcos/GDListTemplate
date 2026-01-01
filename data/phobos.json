@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 19759411,
+    "name": "Phobos",
+    "author": "KrmaL",
+    "creators": ["Technet", "KobaZz", "Andromeda", "Iqrar99", "Razur", "Jo2000", "Nitro451", "Tygrysek", "Riqirez", "Jobet", "xSmokes", "GMTSean", "iBlade", "Tandrii", "DreamEater", "Caernarvon725", "Skitten", "Palery", "WOOGI1411", "Kubs0n"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/wC8VJ4B2WRg",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/mTECNSRkSfg?si=bLOqkqdnnpt8cXFA",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
