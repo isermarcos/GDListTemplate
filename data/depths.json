@@ -1,18 +1,24 @@
 {
-    "id": 000000,
-    "name": "",
-    "author": "",
-    "creators": ["asdas","asdas","asdas"],
-    "verifier": "",
-    "verification": "",
+    "id": 112371654,
+    "name": "The Depths Above",
+    "author": "Bram4Real",
+    "creators": ["Bram4Real"],
+    "verifier": "Bram4Real",
+    "verification": "https://youtu.be/gba7-ej0Twc",
     "percentToQualify": 100,
-    "password": "password or Free Copy",
+    "password": "Free Copy",
     "records": [
         {
             "user": "lukz715",
-            "link": "https://www.youtube.com/watch?v=fz_UsN_tjTY",
+            "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Nico GG",
+            "link": "https://youtu.be/_FT8U7t9emk?si=-pqXQcsZl60fsYzN",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
