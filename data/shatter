@@ -1,0 +1,16 @@
+{
+    "id": 67622133,
+    "name": "SHATTER",
+    "author": "EFEXT",
+    "creators": ["EFEXT"],
+    "verifier": "EFEXT",
+    "verification": "https://youtu.be/IfBg131ImXY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "reizor",
+            "link": "https://www.youtube.com/watch?v=sUeLLxDqqzE",
+            "percent": 100,
+            "hz": 165
+        }
