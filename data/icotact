@@ -1,0 +1,22 @@
+{
+    "id": 66203074,
+    "name": "Icotact",
+    "author": "icedcave",
+    "creators": ["Ozpectro", "Akira Kurisu", "icedcave"],
+    "verifier": "Spamdrew128",
+    "verification": "https://www.youtube.com/watch?v=dd1rG5DLdc4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Nico GG",
+            "link": "https://www.youtube.com/watch?v=ME4FY-P-q8Y",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "isemarcos",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
